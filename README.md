@@ -11,7 +11,7 @@
 
 2. 実行
 ```
-python3 omr.py   
+% python3 omr.py   
 
 seet count = 1
 ```
